@@ -1,0 +1,58 @@
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+table{
+	color: black;
+	border: solid 3px;
+}
+
+td {
+	color: black;
+	border: solid 3px;
+	padding: 40px;
+	width:30%;
+}
+
+#room-00{
+	background-color: orange;
+}
+
+#room-01{
+	background-color: blue;
+}
+
+#room-02{
+	background-color: green;
+}
+
+#room-10{
+	background-color: yellow;
+}
+
+#room-11{
+	background-color: red;
+}
+
+#room-12{
+	background-color: purple;
+}
+
+#room-20{
+	background-color: black;
+}
+
+#room-21{
+	background-color: gray;
+}
+
+#room-22{
+	background-color: pink;
+}
+
+.entrance{
+
+}
